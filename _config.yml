@@ -13,13 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Integrations and Azure blog
-email: jack.weldon@adaptivity.uk
+title: Test Title
+email: jamesdwhill@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of investigations and findings during my career with some advice along the jack.weldon@adaptivity.uk
-  Most content will be azure focused with how to utilise it's offerings within your integrations enviroment.
+  A collection of blah blah
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jwadaptivity.github.io/" # the base hostname & protocol for your site, e.g. http://example.com 
+url: "https://jamesdwhill.github.io/" # the base hostname & protocol for your site, e.g. http://example.com 
 
 # Build settings
 markdown: kramdown
@@ -35,9 +34,9 @@ aux_links:
   "Adaptivity.uk":
     - "https://adaptivity.uk/"
   "LinkedIn":
-    - "https://www.linkedin.com/in/jackweldon/"
+    - "https://www.linkedin.com/in/jamesdwhill/"
   "Github":
-    - "https://github.com/jackweldon"
+    - "https://github.com/jamesdwhill"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
