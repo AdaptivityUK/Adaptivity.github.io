@@ -27,7 +27,7 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 plugins:
   - jekyll-feed
-highlighter: pygments
+highlighter: rouge 
 search_enabled: false
 logo: "https://adaptivity.uk/wp-content/uploads/2019/01/Adaptivity-Logo-new-yellow_Final-Version.png"
 aux_links:
