@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Test Title
-email: jamesdwhill@gmail.com
+title: AdaptivityUK Integration Blogs
+email: hello@adaptivity.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of blah blah
+  A collection of technical blogs relating to everything Integration and technology trends
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamesdwhill.github.io/" # the base hostname & protocol for your site, e.g. http://example.com 
+url: "https://adaptivityuk.github.io/" # the base hostname & protocol for your site, e.g. http://example.com 
 
 # Build settings
 markdown: kramdown
@@ -34,9 +34,7 @@ aux_links:
   "Adaptivity.uk":
     - "https://adaptivity.uk/"
   "LinkedIn":
-    - "https://www.linkedin.com/in/jamesdwhill/"
-  "Github":
-    - "https://github.com/jamesdwhill"
+    - "https://www.linkedin.com/company/adaptivityhq/mycompany/"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
