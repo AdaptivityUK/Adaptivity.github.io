@@ -1,3 +1,5 @@
+# NuGet To Azure Artifacts
+
 # Introduction
 In the project I am currently working in we have decided to move from our self-hosted (in Azure App Service) NuGet server to use Azure DevOps Artifacts, as we have been moving more and more towards utilizing its capabilities. It should reduce our costs and add some features we have been missing like a reasonable UI to manage the packages. In this short article I will share with you how we have managed to migrate all our old packages to Azure Artifacts to make the transition easier.
 
