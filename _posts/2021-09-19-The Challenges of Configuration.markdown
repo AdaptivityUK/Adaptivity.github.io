@@ -101,3 +101,8 @@ Based on my experience, the challenge of configuration is often underestimated. 
 Azure App Configuration is a comprehensive package of configuration storage features that fulfills the use-case of distributed architectures. It works well with containerized and serverless applications as well as CI/CD pipelines.
 
 The benefits of a featureful configuration store as such can greatly contribute to the stability of an application system and smooth development and support process. It can completely eliminate the hunt for configuration values during urgent support incidents, with synchronized configuration there will be no more differences between config files and manually updated environment variables, and the option for instantaneous configuration changes across the whole system with is hard to overestimate.
+
+## Author
+Gergely Vajda 
+
+Senior Integration Engineer
